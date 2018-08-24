@@ -1,7 +1,7 @@
 <?php
 echo "<h1>Openshift Workshop v2.0</h1> ";
 echo $_SERVER['SERVER_ADDR'];
-echo "<br><hr>";
+echo "<br>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx<hr>";
 echo "<h2>Cidades cadastradas no Banco de Dados:</h2>";
 
 phpinfo ();
