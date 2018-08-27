@@ -20,5 +20,3 @@ if ($result->num_rows > 0) {
 }
 $conn->close();
 
-*/
-
