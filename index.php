@@ -5,7 +5,7 @@ echo "<br>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx<hr>";
 echo "<h2>cubano cadastradas no Banco de Dados:</h2>";
 
 ///phpinfo ();
-
+/*
 $conn = new mysqli("mysql", "redhat", "redhat@123", "workshop");
 if ($conn->connect_error) {
     die("Connection failed: " . $conn->connect_error);
@@ -19,4 +19,4 @@ if ($result->num_rows > 0) {
     echo "0 results";
 }
 $conn->close();
-
+*/
