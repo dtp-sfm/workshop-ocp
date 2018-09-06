@@ -2,7 +2,7 @@
 echo "<h1>Openshift Workshop v2.0</h1> ";
 echo $_SERVER['SERVER_ADDR'];
 echo "<br>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx<hr>";
-echo "<h2>cadastradas no Banco de Dados:</h2>";
+echo "<h2>Cidades cadastradas no Banco de Dados:</h2>";
 
 ///phpinfo ();
 
