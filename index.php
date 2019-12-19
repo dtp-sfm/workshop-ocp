@@ -2,6 +2,7 @@
 echo "<h1>Openshift Workshop v2.0</h1> ";
 echo $_SERVER['SERVER_ADDR'];
 echo "<br> <br>" . date(DATE_RFC822) . "<br>";
+echo "<br><h1>Container da Vera</h1><br><br>";
 //echo "<h2>Cidades cadastradas no Banco de Dados:</h2>";
 
 phpinfo ();
